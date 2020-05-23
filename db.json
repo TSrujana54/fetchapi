@@ -1,0 +1,72 @@
+{
+  "cadets": [
+    {
+      "id": 101,
+      "name": "prakash",
+      "email": "prakash@ibm.com"
+    },
+    {
+      "id": 102,
+      "name": "naresh",
+      "email": "naresh@ibm.com"
+    },
+    {
+      "id": 103,
+      "name": "lalitha",
+      "email": "lalitha@ibm.com"
+    },
+    {
+      "id": 104,
+      "name": "puneeth",
+      "email": "puneeth@ibm.com"
+    },
+    {
+      "name": "sujatha",
+      "email": "sujatha@gmail.com",
+      "id": 105
+    },
+    {
+      "name": "sujatha",
+      "email": "sujatha@gmail.com",
+      "id": 106
+    },
+    {
+      "name": "sujatha",
+      "email": "sujatha@gmail.com",
+      "id": 107
+    },
+    {
+      "id": 100,
+      "name": "sujatha",
+      "email": "sujatha@gmail.com"
+    },
+    {
+      "name": "lakshmi",
+      "email": "lakshmi@gmail.com",
+      "id": 108
+    },
+    {
+      "id": 109,
+      "name": "lakshmi",
+      "email": "lakshmi@gmail.com"
+    },
+    {
+      "name": "vijay",
+      "email": "vijay@gmail.com",
+      "id": 110
+    },
+    {
+      "name": "venu",
+      "email": "venu@gmail.com",
+      "id": 111
+    },
+    {
+      "name": "Mario",
+      "email": "Mario@gmail.com",
+      "id": 112
+    }
+  ],
+  "certified": [
+    {}
+  ]
+}
